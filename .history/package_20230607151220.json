@@ -17,7 +17,7 @@
 	},
 	"scripts": {
 		"start": "storybook dev -p 6006",
-		"build": "storybook build",
+		"build": "react-scripts build",
 		"storybook": "storybook dev -p 6006",
 		"build-storybook": "storybook build"
 	},

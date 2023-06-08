@@ -16,8 +16,8 @@
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
-		"start": "storybook dev -p 6006",
-		"build": "storybook build",
+		"start": "react-scripts start",
+		"build": "react-scripts build",
 		"storybook": "storybook dev -p 6006",
 		"build-storybook": "storybook build"
 	},
