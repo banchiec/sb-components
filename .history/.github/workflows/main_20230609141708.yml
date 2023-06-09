@@ -37,5 +37,5 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN}}
         run: npx semantic-release
 
-    permissions:
-      repository-projects: write
+      permissions:
+        repository-projects: write
